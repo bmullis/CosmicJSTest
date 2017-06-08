@@ -30,4 +30,4 @@ gulp
 ```
 Then go to [http://localhost:3000](http://localhost:3000)
 
-
+Live site at [http://first-sample-project.cosmicapp.co/](http://first-sample-project.cosmicapp.co/)
